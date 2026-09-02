@@ -1,6 +1,5 @@
 #import "./template.typ": *
 
-// Application-specific resume for Amazon Ring, job ID 3194784.
 #let name = "Marcin Rolbiecki"
 #let email = "rolbieckidev@gmail.com"
 #let github = "github.com/mrolbiecki"
@@ -25,10 +24,10 @@
   title: "Software Engineer Intern",
   company: "Google",
   location: "Warsaw",
-  dates: dates-helper(start-date: "Jun 2026", end-date: "present"),
+  dates: dates-helper(start-date: "Jun 2026", end-date: "Aug 2026"),
 )
-- Building reusable evaluation infrastructure for AI agents in *Python* using the Google Agent Development Kit (ADK), including custom environments and datasets.
-- Designing a comparative experiment to evaluate two agents pursuing the same objective, but implemented with different frameworks; documenting behavioral and engineering tradeoffs.
+- Built reusable evaluation infrastructure for AI agents in *Python* using the Google Agent Development Kit (ADK), including custom environments and datasets.
+- Conducted a comparative experiment to evaluate two agents pursuing the same objective, but implemented with different frameworks.
 
 #work(
   title: "Software Engineer Intern",
